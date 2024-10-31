@@ -8,3 +8,5 @@ renv::install(c("tidyverse",
 renv::install("jokergoo/ComplexHeatmap")
 renv::install("ycl6/enrichR@add-background")
 renv::install("oganm/homologene")
+
+renv::install("epiR")
